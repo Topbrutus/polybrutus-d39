@@ -10,3 +10,5 @@ date-released: 2026-11-21
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d39
 abstract: "Exact synthetic 44-point Euclidean labelled metric conserving 903 predecessor pairs and independently verified ideal weighted graph modes."
+doi: 10.5281/zenodo.24413712
+url: https://doi.org/10.5281/zenodo.24413712
